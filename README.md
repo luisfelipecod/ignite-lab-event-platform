@@ -1,9 +1,11 @@
-# Plataforma de Evento
+<h1>Plataforma de Evento</h1>
 <h3 align = "center">
 <img src="./readmeImages/coverImage.png">
+
+<h4 align = "center"><a href = "https://ignite-lab-event-platform-navy.vercel.app/">Clique aqui para visitar o projeto</a></h4>
 </h3>
 
-## Tecnologias Utilizadas 
+<h2>Tecnologias Utilizadas</h2>
 
 <ul>
   <li>React</li>
@@ -20,5 +22,5 @@
   <li>svg2jsx</li>
  </ul>
  
-## Fonte do Layout
- [Template da Plataforma de Evento](https://www.figma.com/community/file/1120711251998877938)
+<h2>Fonte do Layout</h2>
+<a href = "https://www.figma.com/community/file/1120711251998877938">Template da Plataforma de Evento</a>
